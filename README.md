@@ -21,7 +21,7 @@ To train the custom dataset and utilize camera-based people and crowd detection,
 ## Demo Video
 To watch demo, click the link -> [https://www.youtube.com/watch?v=LuDratemQ-c](https://www.youtube.com/watch?v=LuDratemQ-c)
 
-## Researcher/Developer:
+## Developer/Researcher:
 * Kyle G. Coronel
 * Asmila A. Alden
 * Melanie Belandres
