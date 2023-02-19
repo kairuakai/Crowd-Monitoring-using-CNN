@@ -19,7 +19,7 @@ To train the custom dataset and utilize camera-based people and crowd detection,
 ![Main](Logo/page5.png)
 
 ## Demo Video
-To watch demo, click the link -> [Kairu](https://youtu.be/Zx6D_zhU-Io)
+To watch demo, click the link -> [https://youtu.be/Zx6D_zhU-Io](https://youtu.be/Zx6D_zhU-Io)
 
 ## Developer:
 * Kyle G. Coronel
