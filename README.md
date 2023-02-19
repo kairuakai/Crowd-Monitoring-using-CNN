@@ -18,6 +18,33 @@ To train the custom dataset and utilize camera-based people and crowd detection,
 ### 3. Count People
 ![Main](Logo/page5.png)
 
+## Demo Video
+To watch demo, click the link -> [https://www.youtube.com/watch?v=LuDratemQ-c](https://www.youtube.com/watch?v=LuDratemQ-c)
+
+## Researcher/Developer:
+* Kyle G. Coronel
+* Asmila A. Alden
+* Melanie Belandres
+* Manel Honey Mae V. Facto
+* Clarize P. Rosales
+
+## Adviser:
+* Jefferson A. Costales
+
+## School Name:
+Eulogio "Amang" Rodriguez Insitute of Science and Technology
+
+Nagtahan, Sampaloc, Manila, Philippines
+
+College of Arts and Sciences
+
+ITE Department
+
+## Course:
+* Bachelor of Science in Computer Science
+
+## Date:
+* February 19, 2023
 
 
 
