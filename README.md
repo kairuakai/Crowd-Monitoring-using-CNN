@@ -1,1 +1,2 @@
 # Crowd Monitoring System
+This study intends to monitor the individuals using the camera-based using CNN (Convolutional Neural Network) algorithm which functions as a neural network with one or more convolutional layers that is mostly used for processing images, classifying data, segmenting data, and other autocorrelated data. This will be quite beneficial in terms of how many individuals have entered the institution. In this method, enough individuals can be maintained to prevent the spread of a highly contagious disease.
