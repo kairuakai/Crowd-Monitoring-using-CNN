@@ -22,8 +22,9 @@ To train the custom dataset and utilize camera-based people and crowd detection,
 To watch demo, click the link ->
 
 ## Developer/Researcher:
-* Asmila A. Alden
 * Kyle G. Coronel
+##
+* Asmila A. Alden
 * Melanie Belandres
 * Manel Honey Mae V. Facto
 * Clarize P. Rosales
