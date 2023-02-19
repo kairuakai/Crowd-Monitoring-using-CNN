@@ -19,11 +19,11 @@ To train the custom dataset and utilize camera-based people and crowd detection,
 ![Main](Logo/page5.png)
 
 ## Demo Video
-To watch demo, click the link -> [https://www.youtube.com/watch?v=LuDratemQ-c](https://www.youtube.com/watch?v=LuDratemQ-c)
+To watch demo, click the link ->
 
 ## Developer/Researcher:
-* Kyle G. Coronel
 * Asmila A. Alden
+* Kyle G. Coronel
 * Melanie Belandres
 * Manel Honey Mae V. Facto
 * Clarize P. Rosales
